@@ -1,0 +1,15 @@
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\bin\Debug\filing_practice_delete.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\bin\Debug\filing_practice_delete.pdb
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.Form1.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.Properties.Resources.resources
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.csproj.GenerateResource.Cache
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.exe
+H:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.pdb
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.exe
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.pdb
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\bin\Debug\filing_practice_delete.exe
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\bin\Debug\filing_practice_delete.pdb
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.csprojResolveAssemblyReference.cache
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.Form1.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.Properties.Resources.resources
+D:\SADAF UNIVERSITY\BS-3A\Mam-UZMA\VS-2010\filing_practice_delete\filing_practice_delete\obj\x86\Debug\filing_practice_delete.csproj.GenerateResource.Cache
